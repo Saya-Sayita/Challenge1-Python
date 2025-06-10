@@ -35,9 +35,9 @@ Con estos datos se pudo emitir una **recomendación final fundamentada** para la
    - import pandas as pd
    - import matplotlib.pyplot as plt
    - import seaborn as sns
-Ejecuta las celdas en orden para realizar el análisis completo.
-
-Revisar los resultados impresos y gráficos para cada tienda en Informe
+    
+3. Ejecuta las celdas en orden para realizar el análisis completo.
+4. Revisar los resultados impresos y gráficos para cada tienda en Informe
 
 ---
 
