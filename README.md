@@ -86,7 +86,7 @@ Tienda 4	$23,459.46
 ## ✅ Conclusión y Recomendación Final ##
 
 ### **Resumen Consolidado de Tiendas**
-Para analisar tomaremos los sigientes datos proporcionados por el cliente:
+
  | Tienda   | Facturación Total   | Categoría Más Vendida  | Calificación Promedio | Producto Más Vendido (cuotas) | Producto Menos Vendido (cuotas) | Costo Envío Promedio  |
  |----------|---------------------|------------------------|-----------------------|-------------------------------|---------------------------------|-----------------------|
  | Tienda 1 | \$1.150.880.400     | Muebles                | 3.98                  | Microondas (60)               | Auriculares con micrófono (33)  | \$26.018,61           |
@@ -107,4 +107,5 @@ Al considerar de manera integral los cinco criterios vemos que:
 
 **Se recomienda que el señor Juan cierre la Tienda 4**, ya que es la que presenta **menor rendimiento global** considerando los criterios estratégicos definidos.
 
+---
 Desarrollado en Python por Zaida Donoso, estudiante Alura Latam
